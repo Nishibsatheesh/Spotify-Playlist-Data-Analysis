@@ -5,7 +5,7 @@ Spotify is a leading music streaming platform with millions of songs and playlis
 
 ### 1. Data Description
 
-**The dataset consists of streaming statistics from Spotify, including:**
+**The dataset consists of streaming statistics from Spotify from year 1930 to 2023, including:**
 
 •	***Artists and their streams:*** Identifying top-performing artists.
 
