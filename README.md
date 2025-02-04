@@ -7,13 +7,13 @@ Spotify is a leading music streaming platform with millions of songs and playlis
 
 **The dataset consists of streaming statistics from Spotify, including:**
 
-•	Artists and their streams: Identifying top-performing artists.
+•	***Artists and their streams:*** Identifying top-performing artists.
 
-•	Track popularity: Number of times a track appears in playlists and charts.
+•	***Track popularity:*** Number of times a track appears in playlists and charts.
 
-•	Track characteristics: Danceability, energy, liveness, valence, and other audio features.
+•	***Track characteristics:*** Danceability, energy, liveness, valence, and other audio features.
 
-•	Platform distribution: Performance of songs across Apple Music, Deezer, and Shazam.
+•	***latform distribution:*** Performance of songs across Apple Music, Deezer, and Shazam.
 
 ### 2. Analysis Insights
 a) **Top 10 Artists with Most Streams**
@@ -53,7 +53,7 @@ The following charts were used for data representation:
 
 •	***Pie Charts***: Visualized distribution of tracks across playlists.
 
-•	***Clustered Column Charts**: Analyzed track characteristics.
+•	***Clustered Column Charts***: Analyzed track characteristics.
 
 •	***Stacked Bar Charts***: Compared platform performance.
 
