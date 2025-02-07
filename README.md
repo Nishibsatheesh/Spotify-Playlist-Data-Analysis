@@ -13,7 +13,7 @@ Spotify is a leading music streaming platform with millions of songs and playlis
 
 •	***Track characteristics:*** Danceability, energy, liveness, valence, and other audio features.
 
-•	***latform distribution:*** Performance of songs across Apple Music, Deezer, and Shazam.
+•	***Platform distribution:*** Performance of songs across Apple Music, Deezer, and Shazam.
 
 ### 2. Analysis Insights
 a) **Top 10 Artists with Most Streams**
